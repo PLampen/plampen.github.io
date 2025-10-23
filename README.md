@@ -1,2 +1,2 @@
 # plampen.github.io
-Website for is-db
+Website for is-db.org
